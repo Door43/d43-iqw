@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iqw:home|Door43 (iqw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iqw|d43-iqw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iqw/archive/master.zip|d43-iqw.zip]]
+
+**Recent Changes**
+{{changes>ns = iqw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iqw|Ethnologue data]]
+
